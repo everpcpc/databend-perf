@@ -1,1 +1,0 @@
-{"title":"Q8","sql":"SELECT Year, avg(DepDelay) FROM ontime GROUP BY Year;","lines":[{"name":"min","data":[0.442,0.427,0.422,0.435,0]},{"name":"max","data":[0.483,0.478,0.497,0.507,0]}],"version":["v0.7.0-nightly","v0.7.1-nightly","v0.7.2-nightly","v0.7.3-nightly","v0.7.9-nightly"],"legend":["min","max"],"xAxis":["2022-03-28","2022-03-29","2022-03-30","2022-03-31","2022-04-06"]}
